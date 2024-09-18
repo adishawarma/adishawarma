@@ -7,6 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/adityashar44913" target="blank"><img src="https://img.shields.io/twitter/follow/adityashar44913?logo=twitter&style=for-the-badge" alt="adityashar44913" /></a> </p>
 - 🌐 My Portfolio Website <a href="https://aditya-sharma-inky.vercel.app/">Aditya Vardhan Sharma<a/a>
+  
 - 🌱 I’m currently learning **Backend Development, but also interested to hone my skills in the Frontend development.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/adishawarma](https://github.com/adishawarma)
